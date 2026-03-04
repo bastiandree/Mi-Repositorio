@@ -27,4 +27,5 @@ class MainActivity : AppCompatActivity() {
             println("Error: El nombre de usuario no puede estar vacío")
         }
     }
+    // Prueba para Git.
 }
