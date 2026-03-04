@@ -12,12 +12,19 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
+            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
+            insets
+        }
     }
 
 
     fun autenticarUsuario(nombre: String) {
         if (nombre.isNotEmpty()) {
-            println("Usuario $nombre autenticado con éxito") [cite: 42]
+            println("Usuario $nombre autenticado con éxito")
+        } else {
+            println("Error: El nombre de usuario no puede estar vacío")
         }
     }
 }
