@@ -18,9 +18,6 @@ Soy **Técnico en Automatización y Robótica** y actualmente me especializo en 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=bastiandree&layout=compact&theme=vision-friendly-dark)
-
 ## 🤝 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/bastian-rodr%C3%ADguez-214091184/))
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Arcontes#3550)
